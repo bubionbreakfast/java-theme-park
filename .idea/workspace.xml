@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eaa483f-00c3-42b6-b429-804051d293b1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/attractions/RollerCoaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/attractions/RollerCoaster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/attractions/RollerCoasterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/attractions/RollerCoasterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/attractions/Dodgems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/attractions/Dodgems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/attractions/DodgemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/attractions/DodgemTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +32,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RollerCoasterTest.visitorIsTooTallAndChargedDouble">
+  <component name="RunManager" selected="JUnit.DodgemTest.visitorIsTooTallAndChargedDouble">
     <configuration name="DodgemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemeParkStartPoint" />
       <extension name="coverage">
@@ -45,6 +44,22 @@
       <option name="PACKAGE_NAME" value="attractions" />
       <option name="MAIN_CLASS_NAME" value="attractions.DodgemTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DodgemTest.visitorIsTooTallAndChargedDouble" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="attractions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="attractions" />
+      <option name="MAIN_CLASS_NAME" value="attractions.DodgemTest" />
+      <option name="METHOD_NAME" value="visitorIsTooTallAndChargedDouble" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,28 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RollercoasterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ThemeParkStartPoint" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="attractions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="attractions" />
-      <option name="MAIN_CLASS_NAME" value="attractions.RollercoasterTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DodgemTest.visitorIsTooTallAndChargedDouble" />
         <item itemvalue="JUnit.RollerCoasterTest.visitorIsTooTallAndChargedDouble" />
         <item itemvalue="JUnit.DodgemTest" />
         <item itemvalue="JUnit.RollerCoasterTest.hasDefaultPrice" />
         <item itemvalue="JUnit.RollerCoasterTest" />
-        <item itemvalue="JUnit.RollercoasterTest" />
       </list>
     </recent_temporary>
   </component>
