@@ -1,15 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6eaa483f-00c3-42b6-b429-804051d293b1" name="Default Changelist" comment="" />
+    <list default="true" id="6eaa483f-00c3-42b6-b429-804051d293b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/attractions/Dodgems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/attractions/Dodgems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/attractions/Park.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/attractions/Park.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/attractions/Playground.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/attractions/Playground.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/attractions/RollerCoaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/attractions/RollerCoaster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/behaviours/IReviewed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behaviours/IReviewed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/behaviours/ISecurity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behaviours/ISecurity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/behaviours/ITicketed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behaviours/ITicketed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stalls/CandyflossStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stalls/CandyflossStall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stalls/IceCreamStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stalls/IceCreamStall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stalls/ParkingSpot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stalls/ParkingSpot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stalls/TobaccoStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stalls/TobaccoStall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/attractions/RollercoasterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/attractions/RollerCoasterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/attractions/Dodgems.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/attractions/Dodgems.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/attractions/Park.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/attractions/Park.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/attractions/Playground.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/attractions/Playground.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/attractions/RollerCoaster.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/attractions/RollerCoaster.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/behaviours/IReviewed.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/behaviours/IReviewed.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/behaviours/ISecurity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/behaviours/ISecurity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/behaviours/ITicketed.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/behaviours/ITicketed.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stalls/CandyflossStall.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stalls/CandyflossStall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stalls/IceCreamStall.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stalls/IceCreamStall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stalls/ParkingSpot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stalls/ParkingSpot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/stalls/TobaccoStall.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stalls/TobaccoStall.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SFGvI4O3D1mQCDa12kyJpZhvEX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
@@ -24,18 +55,90 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="All in ThemeParkStartPoint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.DodgemTest">
+    <configuration name="DodgemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemeParkStartPoint" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="attractions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="attractions" />
+      <option name="MAIN_CLASS_NAME" value="attractions.DodgemTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlaygroundTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="attractions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="attractions" />
+      <option name="MAIN_CLASS_NAME" value="attractions.PlaygroundTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RollerCoasterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="attractions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="attractions" />
+      <option name="MAIN_CLASS_NAME" value="attractions.RollerCoasterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RollerCoasterTest.hasDefaultPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="attractions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="attractions" />
+      <option name="MAIN_CLASS_NAME" value="attractions.RollerCoasterTest" />
+      <option name="METHOD_NAME" value="hasDefaultPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RollercoasterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="attractions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="attractions" />
+      <option name="MAIN_CLASS_NAME" value="attractions.RollercoasterTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in ThemeParkStartPoint" />
+        <item itemvalue="JUnit.DodgemTest" />
+        <item itemvalue="JUnit.RollerCoasterTest.hasDefaultPrice" />
+        <item itemvalue="JUnit.RollerCoasterTest" />
+        <item itemvalue="JUnit.RollercoasterTest" />
+        <item itemvalue="JUnit.PlaygroundTest" />
       </list>
     </recent_temporary>
   </component>
@@ -51,5 +154,16 @@
       <updated>1571152158891</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

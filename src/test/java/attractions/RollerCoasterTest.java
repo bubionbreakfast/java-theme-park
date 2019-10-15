@@ -5,9 +5,11 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class RollercoasterTest {
+public class RollerCoasterTest {
 
     RollerCoaster rollerCoaster;
+    private static final double DELTA = 0.01;
+
 
     @Before
     public void setUp() {
@@ -27,5 +29,10 @@ public class RollercoasterTest {
     @Test
     public void hasVisitCount() {
         assertEquals(0, rollerCoaster.getVisitCount());
+    }
+
+    @Test
+    public void hasDefaultPrice(){
+        assertEquals(8.4, rollerCoaster.defaultPrice(), DELTA);
     }
 }
