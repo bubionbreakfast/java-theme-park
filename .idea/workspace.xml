@@ -2,14 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6eaa483f-00c3-42b6-b429-804051d293b1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/attractions/Dodgems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/attractions/Dodgems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/attractions/DodgemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/attractions/DodgemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ThemeParkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThemePark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThemePark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stalls/CandyflossStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stalls/CandyflossStall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThemePark.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThemePark.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,7 +29,13 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/e33_classnotes/week_12/day_2/polymorphism_lab/polymorphism_lab_solution" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -32,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DodgemTest.visitorIsTooTallAndChargedDouble">
+  <component name="RunManager" selected="JUnit.ThemeParkTest.canGetAllReveiws">
     <configuration name="DodgemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemeParkStartPoint" />
       <extension name="coverage">
@@ -60,21 +77,6 @@
       <option name="MAIN_CLASS_NAME" value="attractions.DodgemTest" />
       <option name="METHOD_NAME" value="visitorIsTooTallAndChargedDouble" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RollerCoasterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ThemeParkStartPoint" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="attractions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="attractions" />
-      <option name="MAIN_CLASS_NAME" value="attractions.RollerCoasterTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -111,13 +113,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThemeParkTest.canGetAllReveiws" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ThemeParkTest" />
+      <option name="METHOD_NAME" value="canGetAllReveiws" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ThemeParkTest.canGetAllReveiws" />
         <item itemvalue="JUnit.DodgemTest.visitorIsTooTallAndChargedDouble" />
         <item itemvalue="JUnit.RollerCoasterTest.visitorIsTooTallAndChargedDouble" />
         <item itemvalue="JUnit.DodgemTest" />
         <item itemvalue="JUnit.RollerCoasterTest.hasDefaultPrice" />
-        <item itemvalue="JUnit.RollerCoasterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +157,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
